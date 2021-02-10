@@ -1,0 +1,15 @@
+{
+  "editor.minimap.enabled": false,
+  "explorer.confirmDragAndDrop": false,
+  "workbench.activityBar.visible": false,
+  "editor.quickSuggestions": false,
+  "editor.suggestOnTriggerCharacters": false,
+  "editor.wordBasedSuggestions": false,
+  "editor.quickSuggestionsDelay": 1000000,
+  "editor.parameterHints.enabled": false,
+  "gitlens.mode.active": "zen",
+  "editor.lightbulb.enabled": false,
+  "breadcrumbs.enabled": false,
+  "workbench.activityBar.visible": false,
+  "workbench.statusBar.visible": false
+}
